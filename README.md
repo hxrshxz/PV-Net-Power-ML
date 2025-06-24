@@ -14,3 +14,4 @@ This project forecasts net power (PV generation minus residential load) for Delh
 - Robust forecasting via LSTM and XGBOOST
 - Clear visual comparisons of actual vs predicted load
 - CSV output for further analysis
+- Highly accurate
