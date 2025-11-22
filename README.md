@@ -25,7 +25,7 @@ This project is based on the research paper:
 
 **"Net Power Forecasting for PV-Integrated Residential Buildings in Delhi"**
 
-📄 **Full Paper**: [`Research_Paper_ML_PV net power.pdf`](Research_Paper_ML_PV net power.pdf)
+📄 **Full Paper**: [`Research_Paper_ML_PV net power.pdf`](Research_Paper_ML_PV%20net%20power.pdf)
 
 ### Abstract
 
